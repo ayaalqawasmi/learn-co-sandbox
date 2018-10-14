@@ -9,3 +9,31 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+#include <stdio.h>
+#include <conio.h>
+Void main(){
+  clrscr();
+  int a;
+  int b;
+  int c;
+  int f;
+  if (a>b) {
+    printf("yes");
+  }
+  if (a<b) {
+    printf("correct");
+    }
+    if(b<c) {
+      printf("life");
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  }
+}
